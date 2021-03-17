@@ -1,3 +1,8 @@
+
+
+[![DOI](https://zenodo.org/badge/256314035.svg)](https://zenodo.org/badge/latestdoi/256314035)
+
+
 # Auditory Attention Decoding
 
 This branch is the software release for the 2019 paper: https://www.nature.com/articles/s41598-019-47795-0
